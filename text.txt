@@ -1,0 +1,13 @@
+{
+   	int Grade = 99;
+	if (Grade >= 90 && Grade <100){
+	System.out.println("your grade is A")};
+	else if(Grade >=80 && Grade <90){
+	    System.out.println("your grade is B")};
+	    else if(Grade >= 70 && Grade < 80){
+	        System.out.println("your grade is C")};
+	        else if(grade >= 60 && grade < 70){
+	            System.out.println("your grade is D")};
+	            
+	            else{ System.out.println("your grade is F");
+	            }
